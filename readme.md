@@ -45,6 +45,6 @@
 
 <h2>How to Run</h2>
 
-<p>Just open 'index.html' in any browser -no server required.</p>
+<p>Just open index.html in any browser -no server required.</p>
 
 <h2>Author:- Arzoo Mansuri</h2>
