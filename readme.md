@@ -1,5 +1,7 @@
 <h1>FAQ Accordion Component</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/FAQ-Accordion/</h2>
+
 <p>This project is a simple <b>FAQ section</b> built using <b>HTML, CSS and JavaScript.</b> When the user clicks any question, its answer opens smoothly while closing the previously opened one - making the experience clean and user-friendly.</p>
 
 <h2>Features</h2>
